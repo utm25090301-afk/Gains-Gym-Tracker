@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("11111111111111111111111111111111");
+declare_id!("Bm8qjDWwRgcjVMEQf8uFk3zjKwjgu8x9S173ciYPHqwb");
 
 #[program]
 pub mod gym_tracker {
